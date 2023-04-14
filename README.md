@@ -1,9 +1,9 @@
 # WelcomeInJapan
 
-L'objectif est de faire un document dans lequel on centralise toutes les démarches et nos conseils lors de l'arrivée au Japon d'un nouveau frérot. On rédige tout en Français et on traduira tout ça ensuite avec Deepl sans aucune milli once de respect.
+L'objectif est de faire un document dans lequel on centralise toutes les démarches et nos conseils lors de l'arrivée au Japon d'un nouveau frérot. On rédige tout en Français et on traduira tout ça ensuite avec Deepl sans aucune millionce de respect.
 
 ## Fichiers
- Je vous proose de faire une dossier par thématique et un fichier par sujet. Par exemple, un dossier "vie au Japon" dans lequel ont aurrait des fichiers "banque", "téléphone", "city hall", etc. Tous les fichiers serait accessible avec un index à la racine du répo. 
+ Je vous propose de faire une dossier par thématique et un fichier par sujet. Par exemple, un dossier "vie au Japon" dans lequel on aurait des fichiers "banque", "téléphone", "city hall", etc. Tous les fichiers seraient accessibles avec un index à la racine du répo. 
  
 ## Liens utiles
 Si jamais, quelques liens vers des cheat sheet markdown:
