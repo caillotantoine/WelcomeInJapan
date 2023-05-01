@@ -4,6 +4,18 @@ L'objectif est de faire un document dans lequel on centralise toutes les démarc
 
 Petite introduction sur ce que ce guide couvre, et surtout ce qu'il ne couvre pas, pour mettre les choses au clair dès le début.
 
+## Table des matières
+
+Le guide de la bonne vie à Tsukuba est organisé selon les catégories suivantes qui couvrent toutes les étapes de l'arrivée à l'aéroport aux derniers au revoir :
+
+- Préparer son arrivée en territoire nippon
+- [Day 1 : de l'aéroport à Tsukuba](day1/day1.md)
+- Les démarches administratives
+- Se loger
+- Se nourrir
+- [Se déplacer](transports/transports.md)
+- Payer et être payé
+
 ## Fichiers
 
 Je vous propose de faire une dossier par thématique et un fichier par sujet. Par exemple, un dossier "vie au Japon" dans lequel on aurait des fichiers "banque", "téléphone", "city hall", etc. Tous les fichiers seraient accessibles avec un index à la racine du répo.
@@ -34,7 +46,6 @@ Liste exhaustive des catégories :
 - Le city hall
   - C kwa
   - Pourquoi il faut y aller, et ce qui est faisable là bas
-
 
 ## Liens utiles
 
