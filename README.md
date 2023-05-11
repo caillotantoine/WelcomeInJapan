@@ -11,6 +11,7 @@ Le guide de la bonne vie à Tsukuba est organisé selon les catégories suivante
 - Préparer son arrivée en territoire nippon
 - [Day 1 : de l'aéroport à Tsukuba](day1/day1.md)
 - Les démarches administratives
+    - [Permis de conduire](/administration/permis/administration_permis.md)
 - Se loger
 - Se nourrir
 - [Se déplacer](transports/transports.md)

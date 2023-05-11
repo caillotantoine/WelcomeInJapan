@@ -85,3 +85,5 @@ Les japonais roulent assez indifféremment sur le trottoir ou sur la route, en f
 | Mamachari | La base du vélo de mamie avec un panier et un porte bagage | Peu cher, Pratique pour transporter toutes sortes de choses | Lourd, peu de vitesses | Occasion ~10 000 ￥, neuf ~20 000 ￥ |
 
 ## En voiture
+
+Pour les démarches administratives liées à la traduction ou au transfert de permis au Japon, merci de se rendre à [cette page](../administration/permis/administration_permis.md)
