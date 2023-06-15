@@ -52,6 +52,7 @@ Liste exhaustive des catégories :
 
 Si jamais, quelques liens vers des cheat sheet markdown:
 
+- [GitHub de la vie au JRL](https://github.com/isri-aist/wiki/tree/master/life-in-jrl)
 - [The Markdown Cheat Sheet (PDF)](https://padomi.id.lv/PRG/par__/Markdown-Cheat-Sheet.pdf)
 - [Github's markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
